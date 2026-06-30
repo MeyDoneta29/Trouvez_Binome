@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430290683352",
+    "project_id": "trouvez-binome-epf-a74f2",
+    "storage_bucket": "trouvez-binome-epf-a74f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430290683352:android:d2b1fcb25bbb00de0e1ead",
+        "android_client_info": {
+          "package_name": "com.lindorluce.trouvez_binome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutxMzkeC35RPZKi7GlCyX9b5nxjjS1rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
